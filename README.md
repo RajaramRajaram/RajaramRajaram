@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=rajaramrajaram&label=👀+Profile+Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajaramrajaram&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🌱 Currently Learning
